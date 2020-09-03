@@ -1,0 +1,17 @@
+C:\Users\malma\source\repos\Webcam_Demo\Webcam\bin\Release\Webcam.exe.config
+C:\Users\malma\source\repos\Webcam_Demo\Webcam\bin\Release\Webcam.exe
+C:\Users\malma\source\repos\Webcam_Demo\Webcam\bin\Release\Webcam.pdb
+C:\Users\malma\source\repos\Webcam_Demo\Webcam\bin\Release\AForge.dll
+C:\Users\malma\source\repos\Webcam_Demo\Webcam\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\malma\source\repos\Webcam_Demo\Webcam\bin\Release\AForge.Video.dll
+C:\Users\malma\source\repos\Webcam_Demo\Webcam\bin\Release\AForge.xml
+C:\Users\malma\source\repos\Webcam_Demo\Webcam\bin\Release\AForge.Video.xml
+C:\Users\malma\source\repos\Webcam_Demo\Webcam\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\malma\source\repos\Webcam_Demo\Webcam\obj\Release\Webcam.csprojAssemblyReference.cache
+C:\Users\malma\source\repos\Webcam_Demo\Webcam\obj\Release\Webcam.Form1.resources
+C:\Users\malma\source\repos\Webcam_Demo\Webcam\obj\Release\Webcam.Properties.Resources.resources
+C:\Users\malma\source\repos\Webcam_Demo\Webcam\obj\Release\Webcam.csproj.GenerateResource.cache
+C:\Users\malma\source\repos\Webcam_Demo\Webcam\obj\Release\Webcam.csproj.CoreCompileInputs.cache
+C:\Users\malma\source\repos\Webcam_Demo\Webcam\obj\Release\Webcam.csproj.CopyComplete
+C:\Users\malma\source\repos\Webcam_Demo\Webcam\obj\Release\Webcam.exe
+C:\Users\malma\source\repos\Webcam_Demo\Webcam\obj\Release\Webcam.pdb
